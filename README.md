@@ -31,7 +31,7 @@ It is built on [jInstagram](https://github.com/sachin-handiekar/jInstagram).
 Please see the [Commands Usage](https://github.com/project-spinoza/instagram-swiss-army-knife/wiki/Commands-Usage) for more details.
 
 ## <a name="java-docs">JAVA DOCS</a> [&#8593;](#toc)
-JavaDoc’s are available [here](http://malexander493.github.io/instagram-swiss-army-knife/)
+JavaDoc’s are available [here](http://malexander493.github.io/instagram-swiss-army-knife-test/)
 
 
 ## <a name="license">License</a> [&#8593;](#toc)
