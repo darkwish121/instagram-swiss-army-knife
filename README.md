@@ -28,7 +28,7 @@ It is built on [jInstagram](https://github.com/sachin-handiekar/jInstagram).
 * Run 'isak -help' to display the help index.
 * Run 'isak --help &lt;command&gt;' to display help for specific commands.
 
-Please see the [Commands Usage](https://github.com/malexander493/instagram-swiss-army-knife/wiki/Commands-Usage) for more details.
+Please see the [Commands Usage](https://github.com/project-spinoza/instagram-swiss-army-knife/wiki/Commands-Usage) for more details.
 
 ## <a name="java-docs">JAVA DOCS</a> [&#8593;](#toc)
 JavaDoc’s are available [here](http://malexander493.github.io/instagram-swiss-army-knife/)
