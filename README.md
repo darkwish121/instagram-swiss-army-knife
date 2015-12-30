@@ -1,4 +1,4 @@
-# instagram-swiss-army-knife-test
+# instagram-swiss-army-knife
 Instagram swiss army knife is a command line tool to dump Instagram data.
 
 ## <a name="toc">Table of Contents</a>
