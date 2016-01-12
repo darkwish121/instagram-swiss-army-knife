@@ -1,0 +1,6 @@
+2016-01-12 11:11:52.449 [main] INFO   - Welcome to ISAK
+2016-01-12 11:11:52.449 [main] INFO   - Run 'isak -help' to display the help index.
+2016-01-12 11:11:52.449 [main] INFO   - Run 'isak --help <command>' to display help for specific commands
+2016-01-12 11:12:57.933 [main] INFO   - Expected a command, got exi
+2016-01-12 11:12:59.601 [main] INFO   - Good Bye...
+2016-01-12 11:12:59.601 [main] INFO   - !!! DONE !!!
